@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "firstreactawsappbc40894b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
